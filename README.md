@@ -7,20 +7,9 @@ Hello there! Welcome to my GitHub profile. I'm Ryan Moore, a Certified Public Ac
 
 I obtained my Bachelor's degree in Accounting and Finance from Boston College in 2014 and graduated from the Flatiron Data Science program in April of 2023. During my time at Boston College, I was actively involved in the music scene. As a member of the drumline for all four years, I had the opportunity to explore my musical talents and contribute to the college's vibrant music community. I held the position of section leader for two years, honing my leadership skills and fostering a collaborative environment within the drumline.
 
-### Professional Experience
-
-#### KPMG, Auditor (2014-2017)
-During my three-year tenure at KPMG, I worked as an auditor, gaining valuable experience in financial statement analysis, risk assessment, and internal controls evaluation. Collaborating with cross-functional teams, I conducted comprehensive audits for clients across various industries, ensuring compliance with regulatory standards and identifying areas for process improvement.
-
-#### EY, Accounting Consultant (2017-2022)
-At EY, I served as an accounting consultant for five years. In this role, I provided advisory services to clients, focusing on financial reporting, accounting policy implementation, and process optimization. I worked closely with client teams, helping them navigate complex accounting challenges and enhance their financial reporting capabilities.
-
-#### Hyatt Hotels, Financial Reporting Manager (2022-2023)
-As a financial reporting manager at Hyatt Hotels, I oversaw financial reporting activities, ensuring accuracy and compliance with regulatory requirements. I played a key role in the preparation of financial statements, supported the implementation of accounting standards, and collaborated with cross-functional teams to streamline reporting processes.
-
 ### Data Science Journey
 
-Motivated by my passion for data analysis and the desire to leverage technology for meaningful insights, I pursued the data science program at Flatiron School. This immersive experience provided me with a strong foundation in Python, SQL, machine learning, and natural language processing. 
+After eight year in public accounting and a short stint as a financial reporting manager, I was motivated by my passion for data analysis and the desire to leverage technology for meaningful insights and I pursued the data science program at Flatiron School. This immersive experience provided me with a strong foundation in Python, SQL, machine learning, and natural language processing that I am excited to use out in the working world. 
 
 ### Pinned Projects
 
