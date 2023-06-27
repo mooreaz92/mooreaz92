@@ -2,8 +2,6 @@
 
 ## CPA | Aspiring Data Analyst | Music Enthusiast
 
-![Profile Image](profile_image.png)
-
 Hello there! Welcome to my GitHub profile. I'm Ryan Moore, a Certified Public Accountant (CPA) and aspiring data analyst based in the vibrant city of Chicago. I have a passion for leveraging data to gain valuable insights and make informed decisions. When I'm not crunching numbers or coding, you'll find me playing in local bands around Chicago
 ### Education
 
@@ -31,14 +29,10 @@ Motivated by my passion for data analysis and the desire to leverage technology 
 
 In this project, I embarked on my capstone journey at Flatiron School. Leveraging my data science toolkit, I analyzed extensive banking marketing data to identify the leading causes of customer acquisitions. Using machine learning techniques, I developed a customer acquisition predictor, enabling targeted marketing efforts. To make the insights accessible to non-technical stakeholders, I also created a user-friendly no-code application using Streamlit.
 
-![Bank Campaign Optimizer](bank_campaign_optimizer_screenshot.png)
-
 #### [Music Festival Visualization](https://github.com/mooreaz92/music_festival_viz_practice)
 *Visualizing 9 years of music festival data in Europe using Python, Google Maps API, and Tableau*
 
 Combining my passion for music and data, I embarked on this exciting project. By leveraging Python and the Google Maps API, I scraped and collected data from nine years of music festivals in Europe. I then utilized Tableau to create captivating visualizations, uncovering trends and patterns in the festival landscape. From attendance figures to geographical distribution, this project showcases the power of data visualization in the music industry.
-
-![Music Festival Visualization](music_festival_viz_practice_screenshot.png)
 
 ### Additional Projects
 
