@@ -27,7 +27,7 @@ I analyzed extensive banking marketing data to identify the leading causes of cu
 *Visualizing 9 years of music festival data in Europe using Python, Google Maps API, and Tableau*
 
 <div style="text-align:center">
-    <img src="festival.jpg" style="width: 50%; border-radius: 10px;"/>
+    <img src="festival.jpg" style="width: 30%; border-radius: 10px;"/>
 </div>
 
 Combining my passion for music and data, I embarked on this exciting project. By leveraging Python and the Google Maps API, I scraped and collected data from nine years of music festivals in Europe. I then utilized Tableau to create captivating visualizations, uncovering trends and patterns in the festival landscape. From attendance figures to geographical distribution, this project showcases the power of data visualization in the music industry.
