@@ -17,10 +17,18 @@ After eight year in public accounting and a short stint as a financial reporting
 #### [Bank Campaign Optimizer](https://github.com/mooreaz92/bank_campaign_optimizer)
 *Analyzing banking marketing data to optimize customer acquisition strategies*
 
-In this project, I embarked on my capstone journey at Flatiron School. Leveraging my data science toolkit, I analyzed extensive banking marketing data to identify the leading causes of customer acquisitions. Using machine learning techniques, I developed a customer acquisition predictor, enabling targeted marketing efforts. To make the insights accessible to non-technical stakeholders, I also created a user-friendly no-code application using Streamlit.
+<div style="text-align:center">
+    <img src="images/call_center_banner.png" style="width: 50%; border-radius: 10px;"/>
+</div>
+
+I analyzed extensive banking marketing data to identify the leading causes of customer acquisitions. This machine learning project did a deep dive into a bank marketing dataset to understand what features are most important to a marketing campaign's success, and then used that understanding to build an optimized model and deploy that model to end users in a no-code app.
 
 #### [Music Festival Visualization](https://github.com/mooreaz92/music_festival_viz_practice)
 *Visualizing 9 years of music festival data in Europe using Python, Google Maps API, and Tableau*
+
+<div style="text-align:center">
+    <img src="images/festival.jpg" style="width: 50%; border-radius: 10px;"/>
+</div>
 
 Combining my passion for music and data, I embarked on this exciting project. By leveraging Python and the Google Maps API, I scraped and collected data from nine years of music festivals in Europe. I then utilized Tableau to create captivating visualizations, uncovering trends and patterns in the festival landscape. From attendance figures to geographical distribution, this project showcases the power of data visualization in the music industry.
 
