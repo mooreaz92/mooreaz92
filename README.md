@@ -18,7 +18,7 @@ After eight year in public accounting and a short stint as a financial reporting
 *Analyzing banking marketing data to optimize customer acquisition strategies*
 
 <div style="text-align:center">
-    <img src="images/call_center_banner.png" style="width: 50%; border-radius: 10px;"/>
+    <img src="call_center_banner.png" style="width: 50%; border-radius: 10px;"/>
 </div>
 
 I analyzed extensive banking marketing data to identify the leading causes of customer acquisitions. This machine learning project did a deep dive into a bank marketing dataset to understand what features are most important to a marketing campaign's success, and then used that understanding to build an optimized model and deploy that model to end users in a no-code app.
@@ -27,7 +27,7 @@ I analyzed extensive banking marketing data to identify the leading causes of cu
 *Visualizing 9 years of music festival data in Europe using Python, Google Maps API, and Tableau*
 
 <div style="text-align:center">
-    <img src="images/festival.jpg" style="width: 50%; border-radius: 10px;"/>
+    <img src="festival.jpg" style="width: 50%; border-radius: 10px;"/>
 </div>
 
 Combining my passion for music and data, I embarked on this exciting project. By leveraging Python and the Google Maps API, I scraped and collected data from nine years of music festivals in Europe. I then utilized Tableau to create captivating visualizations, uncovering trends and patterns in the festival landscape. From attendance figures to geographical distribution, this project showcases the power of data visualization in the music industry.
