@@ -3,6 +3,7 @@
 ## CPA | Aspiring Data Analyst | Music Enthusiast
 
 Hello there! Welcome to my GitHub profile. I'm Ryan Moore, a Certified Public Accountant (CPA) and aspiring data analyst based in the vibrant city of Chicago. I have a passion for leveraging data to gain valuable insights and make informed decisions. When I'm not crunching numbers or coding, you'll find me playing in local bands around Chicago
+
 ### Education
 
 I obtained my Bachelor's degree in Accounting and Finance from Boston College in 2014 and graduated from the Flatiron Data Science program in April of 2023. During my time at Boston College, I was actively involved in the music scene. As a member of the drumline for all four years, I had the opportunity to explore my musical talents and contribute to the college's vibrant music community. I held the position of section leader for two years, honing my leadership skills and fostering a collaborative environment within the drumline.
@@ -43,6 +44,7 @@ def stay_curious():
         learn()
         explore()
         create()
-        repeat()
 
-stay_curious()
+if __name__ == '__main__':
+    stay_curious()
+```
